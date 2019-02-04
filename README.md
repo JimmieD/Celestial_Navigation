@@ -27,7 +27,7 @@ This is based in part on a similar concept to that of A'Hearn and Rossano[1].
 
 ## Where Might This Project be Heading?
 
-- Add corretions for limb sights. (next on my to do)
+- Add corrections for limb sights. (next on my to do)
 - "Clean up" the code
 - Would like to do the same for the moon.
 - Would like to add navigational stars.   
