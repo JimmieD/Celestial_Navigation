@@ -302,7 +302,7 @@ def sun_posit(timestamp):
     minute = timestamp.minute - 1
     second = timestamp.second - 1
 
-    a = table_4a[0][1]
+    a = table_4a[2][1]
     print("From table a = ", a)
 
     if timestamp.minute > 30:
