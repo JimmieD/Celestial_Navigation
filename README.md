@@ -54,4 +54,4 @@ Feedback, comments and suggestions are appreciated.  Also note that this is a si
 
 ## DISCLAIMER
 
-Don't use this for navigation.  It's jsut a python and math project.
+Don't use this for navigation.  It's just a python and math project.
