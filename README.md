@@ -54,4 +54,4 @@ Feedback, comments and suggestions are appreciated.  Also note that this is a si
 
 ## DISCLAIMER
 
-This is not intended to be used as a primary means of navigating or obtaining a fix (especially when more accurate methods available).  Use at your own risk.  
+Don't use this for navigation.  It's jsut a python and math project.
